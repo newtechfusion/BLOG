@@ -1,4 +1,4 @@
-BLOG
+Blog
 ====
 
-this is blog
+this is making for creating blog with multiple things
